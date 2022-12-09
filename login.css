@@ -1,0 +1,128 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    font-family:'Noto Sans K';
+}
+
+.container {
+    width: 100px;
+    height: 100px;
+
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,89,121,0.3255897329634979) 35%, rgba(0,212,255,1) 100%);;
+}
+
+.login-wrap{
+    position: absolute;
+    top: 50%;
+    bottom: 50%;
+    left: 600px;
+    transform: translate(-50%, -50%);
+    width: 350px;
+    height: 600px;
+    padding: 30px;
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow:  5px 5px black;
+    
+
+}
+
+#login { width: 100%; height: 100%;}
+
+
+#login.  .login-logo
+#login.  .login-inputbox
+#login.  .login-inputbox input
+#login.  .login-inputbox input::placeholder
+#login.  .login-inputbox input~.border{
+    position: absolute;
+    top: 30%;
+    left: 0;
+    width: 0;
+    left: 0;
+    border: 0px solid cornflowerblue;
+    border-color: cornflowerblue;
+
+
+}
+
+
+#login.  .login-inputbox input:focus ~ .border{
+    width: 100%;
+    border-width: 1px;
+
+}
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity
+
+#login  .login-remember label input-security: ;
+{
+
+}
+
+
+#login  .login-remember label  .checkmark::after 
+{
+    content: '';
+    position: absolute;
+    top: 3px;
+    b
+}
+
+#login  .login-btnbox {
+    height: 50px;
+    margin-bottom: 10px;
+} 
+
+
+#login  .login-btnbox .login-btn {
+    display: block;
+    border-color: cornflowerblue;
+    color: #fff;
+    font-size: 1.2rem;
+    color: #fff;
+    line-height: 50px;
+    border-radius: 5px;
+    }
+
+
+#login  .copy {
+    height: 15%;    margin-top: 30px;    margin-bottom: 0;
+
+}
+
+#login .copy p {
+    font-size: 0.8rem; text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#login.  .login-logo
+#login.  .login-logo
+
+
+
+
